@@ -56,7 +56,7 @@ questions =  [
 	{"id": 54, "question": "Marriage should only be between a man and a woman.", "effects": {"prog": -1}},
 	{"id": 55, "question": "Children, under no circumstance, should be allowed to go through hormonal therapy with the intention of transitioning.", "effects": {"prog": -1}},
 	{"id": 56, "question": "People with serious inheritable disabilities should not be allowed to reproduce.", "effects": {"prog": -1}},
-	{"id": 57, "question": "Drugs are harmful and should be banned.", "effects": {"prog": -1}},
+	{"id": 57, "question": "Pornography should be banned.", "effects": {"prog": -1}},
 	{"id": 58, "question": "People shouldn’t date outside their own race.", "effects": {"prog": -1}},
 	{"id": 59, "question": "Multiculturalism is bad.", "effects": {"prog": -1}},
 ];
